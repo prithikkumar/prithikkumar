@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prithikkumar
+- 👀 I’m interested in C++,Web Development and Java
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me prithikpraneshkumar@gmail.com

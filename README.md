@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prithikkumar
 - 👀 I’m interested in C++,Web Development, Machine Learning and Mobile App Development
 - 🌱 I’m currently working on JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Backend Development using Node js framework
 - 📫 How to reach me prithikpraneshkumar@gmail.com

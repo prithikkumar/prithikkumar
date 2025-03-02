@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prithikkumar
-- 👀 I’m interested in C++,Web Development and Machine Learning
-- 🌱 I’m currently working on Flask
-- 💞️ I’m looking to collaborate on Backend Development using Node js framework
+- 👀 I’m interested in Spark, Scala/PySpark, Azure Data Factory
+- 🌱 I’m currently working on Azure Data Factory, Spark
+- 💞️ I’m looking to collaborate on Big Data Engineering using PySpark/Scala Spark and Azure Data Factory
 - 📫 How to reach me prithikpraneshkumar@gmail.com
